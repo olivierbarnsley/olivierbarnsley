@@ -2,7 +2,7 @@
 
 🎓 **3rd-Year Computer Science (Honours)** student at the **University of Guelph** (Minor in Business | **84.7% GPA**)  
 📍 Toronto, ON / Guelph, ON | 🌐 Bilingual (English & French)  
-🔗 **[LinkedIn](https://www.linkedin.com/in/olivier-barnsley-497762312/)** | 📧 **olivier.barnsley@gmail.com**
+🔗 **[LinkedIn](https://www.linkedin.com/in/olivierbarnsley)** | 📧 **olivier.barnsley@gmail.com**
 
 #### 🛠️ Technical Stack
 - **Languages:** C, Python, Java, TypeScript, JavaScript, Swift, SQL, HTML5/CSS3, Assembly, Bash, Skript
